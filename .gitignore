@@ -1,0 +1,11 @@
+node_modules
+build
+dist
+.next
+
+package-lock.json
+
+.idea
+.vscode
+.DS_Store
+*.log
