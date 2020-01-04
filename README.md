@@ -1,4 +1,4 @@
-# CI_SD (Centrum Innowacji - SlideDecks)
+# Slide Decks Presentations
 
 A list of presentations created by CodersCrew for Centrum Innowacji. Each repository contains already deployed presentation.
 
